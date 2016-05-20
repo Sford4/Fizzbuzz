@@ -1,0 +1,52 @@
+
+h1 {
+	font: Times;
+	text-align: center;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	text-decoration-color: white;
+	font: helvetica, sans-serif;
+	font-size: 24px;
+	text-align: center;
+	line-height: 800%;
+	margin: 5px auto 5px auto;
+}
+a:link {
+    text-decoration: none;
+}
+
+
+.circleRed {
+	background-color: red;
+}
+.circleRed:hover {
+	background-color: green;
+}
+.circleBlue {
+	background-color: blue;
+}
+.circleBlue:hover {
+	background-color: green;
+}
+
+.circleYellow {
+	background-color: yellow;
+}
+.circleYellow:hover {
+	background-color: green;
+}
+
+.circleGray {
+	background-color: gray;
+}
+.circleGray:hover {
+	background-color: green;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
